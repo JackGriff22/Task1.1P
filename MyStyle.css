@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/88/304/HD-wallpaper-brown-wooden-planks-macro-horizontal-wooden-boards-brown-wooden-texture-wood-planks-wooden-textures-wooden-backgrounds-brown-wooden-boards-wooden-planks-brown-backgrounds.jpg);
+    background-size: cover;
+}
+h1{
+    background-color: beige;
+}
+p{
+    background-color: beige;
+    width: 50%;
+}
+ul{
+    background-color: beige;
+    width: 10%;
+}
+form{
+    background-color: beige;
+    width:25%;
+}
+a{
+    background-color: beige;
+}
